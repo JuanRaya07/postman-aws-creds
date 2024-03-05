@@ -25,7 +25,8 @@ pm.globals.set("awsSecretAccessKey", token["Credentials"]["SecretAccessKey"]);
 pm.globals.set("awsSessionToken", token["Credentials"]["SessionToken"]);
 ```
 
-<img width="1355" alt="image" src="https://github.com/JuanRaya07/postman-aws-creds/assets/130441696/f26d77e8-d114-4eae-b810-5e08cb213e60">
+https://github.com/JuanRaya07/postman-aws-creds/assets/130441696/eb82d41f-1844-43d0-be4f-c6bd2a294dde
+
 
 6. Click `Send`
 
