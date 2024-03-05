@@ -2,11 +2,17 @@
 
 0. Dependencies `sxs-cli` `awk` `cat` `node`
 
-1. `git clone git@github.com:JuanRaya07/postman-aws-creds.git`
+1. ```
+   git clone git@github.com:JuanRaya07/postman-aws-creds.git
+   ```
 
-2. `cd postman-aws-creds`
+2. ```
+   cd postman-aws-creds
+   ```
 
-3. Run `node server.js`
+3. ```
+   node server.js
+   ```
 
 4. Create a postman `GET` localhost:3001
 
