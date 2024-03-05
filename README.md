@@ -1,4 +1,6 @@
-### 🚀 Installation
+### 💻 Usage
+
+0. Dependencies `sxs-cli` `awk` `cat` `node`
 
 1. `git clone git@github.com:JuanRaya07/postman-aws-creds.git`
 
